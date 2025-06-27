@@ -126,7 +126,7 @@ greedy_souping(
 
 ## Reference and citation
 
-Alba C, Warner BC, Saxena A, Huang J, An R. Towards Robust Sentiment Analysis of Temporally-Sensitive Policy-Related Online Text. Accepted In: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL), Volume 4: Student Research Workshop. Association for Computational Linguistics; July 26-August 1, 2025; Vienna, Austria.
+Alba C, Warner BC, Saxena A, Huang J, An R. Towards Robust Sentiment Analysis of Temporally-Sensitive Policy-Related Online Text. _Accepted In: Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL), Volume 4: Student Research Workshop_. _Association for Computational Linguistics; July 26-August 1, 2025_; Vienna, Austria.
 
 
 
