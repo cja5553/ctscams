@@ -14,8 +14,8 @@ LONG_DESCRIPTION = 'Accounts temporal dynamics of policy-related texts and evalu
 setup(
     name="ctscams",
     version=VERSION,
-    author="Anonymous ACL SRW",
-    author_email="anonaclsrw@proton.me",
+    author="Charles Alba",
+    author_email="alba@wustl.edu",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=long_description,
